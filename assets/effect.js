@@ -1,7 +1,7 @@
 $(window).load(function() {
     $('.loading').fadeOut('fast');
     $('.container').fadeIn('fast');
-    $('.song').trigger('click');
+    $('#play').trigger('click');
 });
 $('document').ready(function() {
     var vw;
