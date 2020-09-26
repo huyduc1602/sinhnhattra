@@ -3,7 +3,8 @@ $(window).load(function() {
     $('.container').fadeIn('fast');
 });
 $('document').ready(function() {
-    $('#play').click();
+
+    setTimeout(function() { $('#play').click(); }, 3000);
     var vw;
     $(window).resize(function() {
         vw = $(window).width() / 2;
