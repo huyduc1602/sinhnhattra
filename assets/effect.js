@@ -4,7 +4,7 @@ $(window).load(function() {
 });
 $('document').ready(function() {
 
-    setTimeout(function() { $('#play').click(); }, 3000);
+    setTimeout($('#play').click(), 3000);
     var vw;
     $(window).resize(function() {
         vw = $(window).width() / 2;
