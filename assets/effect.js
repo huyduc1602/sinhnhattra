@@ -4,7 +4,7 @@ $(window).load(function() {
 });
 $('document').ready(function() {
 
-    $(body).moveover(function() {
+    $(body).hover(function() {
         var audio = $('.song')[0];
         audio.play();
     })
