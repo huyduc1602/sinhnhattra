@@ -3,11 +3,6 @@ $(window).load(function() {
     $('.container').fadeIn('fast');
 });
 $('document').ready(function() {
-
-    $(":root").hover(function() {
-        var audio = $('.song')[0];
-        audio.play();
-    })
     var vw;
     $(window).resize(function() {
         vw = $(window).width() / 2;
@@ -34,7 +29,8 @@ $('document').ready(function() {
         });
     });
     $('#play').click(function() {
-
+        var audio = $('.song')[0];
+        audio.play();
         $('#bulb_yellow').addClass('bulb-glow-yellow-after');
         $('#bulb_red').addClass('bulb-glow-red-after');
         $('#bulb_blue').addClass('bulb-glow-blue-after');
