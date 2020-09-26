@@ -1,9 +1,9 @@
 $(window).load(function() {
     $('.loading').fadeOut('fast');
     $('.container').fadeIn('fast');
-    $('#play').click();
 });
 $('document').ready(function() {
+    $('#play').click();
     var vw;
     $(window).resize(function() {
         vw = $(window).width() / 2;
