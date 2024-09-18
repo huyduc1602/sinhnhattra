@@ -8,7 +8,7 @@ var config = {
         "Người mà tớ yêu quý",
         "Sinh nhật tròn 25 tuổi của cậu",
         "Mặc dù tớ không ở gần đó",
-        "Nhưng e vẫn luôn mong mọi thứ tốt đẹp nhất với cậu",
+        "Nhưng tớ vẫn luôn mong mọi thứ tốt đẹp nhất với cậu",
         "Chúc cậu sinh nhật vui vẻ và luôn hạnh phúc, đạt được nhiều thành công trong cuộc sống nha",
         "Trà yêu quý",
         "Gửi từ Hoàng Huy Đức",
