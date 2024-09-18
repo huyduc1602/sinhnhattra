@@ -6,7 +6,7 @@ var config = {
         "Gửi cho chị", //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "Nguyễn Thị Ngọc Thủy", // 同上...
         "Người mà em yêu quý",
-        "Sinh nhật tròn 21 tuổi của chị",
+        "Sinh nhật tròn 26 tuổi của chị",
         "Mặc dù e không thể ở cạnh chị",
         "Nhưng e vẫn luôn mong mọi thứ tốt đẹp nhất với chị",
         "Cảm ơn chị thời gian qua",
